@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-17)
+## Unreleased (2026-06-22)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`dadabba`](https://github.com/stdlib-js/stdlib/commit/dadabba66e44060c40b231ebf1862aa0453e5285) - **chore:** resolve C compiler warnings _(by Athan Reines)_
 -   [`ddc2020`](https://github.com/stdlib-js/stdlib/commit/ddc2020894f672547e4101425bf5f609dcabf634) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`dc09169`](https://github.com/stdlib-js/stdlib/commit/dc09169e3f87a3ca9e3f9bea511468b6b496f91f) - **feat:** add C implementation of `stats/base/ndarray/dmeanwd` [(#10784)](https://github.com/stdlib-js/stdlib/pull/10784) _(by Bhargav Dabhade, Athan Reines, Sachin Pangal)_
 -   [`9a51841`](https://github.com/stdlib-js/stdlib/commit/9a51841213eb13adbd6b8fe36d96c00aac9fbb17) - **bench:** refactor to use string interpolation in `stats/base` [(#11393)](https://github.com/stdlib-js/stdlib/pull/11393) _(by Karan Anand)_
